@@ -1,3 +1,3 @@
 # photoeditorJS
 
-#Basic Photo Editor app that allows you to make chnages on your images using the tools created.
+#Basic Photo Editor app that allows you to make changes on your images using the tools created.
